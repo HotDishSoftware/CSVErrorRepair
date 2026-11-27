@@ -23,7 +23,7 @@ Add CSVErrorRepair as a dependency in your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/daSkier/CSVErrorRepair.git", from: "0.1.0")
+    .package(url: "https://github.com/HotDishSoftware/CSVErrorRepair.git", from: "0.1.0")
 ]
 ```
 
